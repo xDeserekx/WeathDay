@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeathDay", "WeathDay\WeathDay.csproj", "{4E076637-4DA6-4316-802C-43762596615A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeathDay.UnitTest", "WeathDay.UnitTest\WeathDay.UnitTest.csproj", "{68BE9720-97E2-4821-97A8-227D3D3581B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E076637-4DA6-4316-802C-43762596615A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E076637-4DA6-4316-802C-43762596615A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E076637-4DA6-4316-802C-43762596615A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E076637-4DA6-4316-802C-43762596615A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE9720-97E2-4821-97A8-227D3D3581B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE9720-97E2-4821-97A8-227D3D3581B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE9720-97E2-4821-97A8-227D3D3581B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE9720-97E2-4821-97A8-227D3D3581B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E7A130-AFC2-4E5B-92A6-2E2C026B9D32}
+	EndGlobalSection
+EndGlobal
