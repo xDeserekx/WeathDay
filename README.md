@@ -17,7 +17,7 @@ Weather Day is a simple weather application that displays the current weather an
 
 * Displays the current weather and 10-day forecast for a given location
 * Uses OpenWeatherMap API to fetch weather data
-* Supports both metric units
+* Supports metric units
 
 ## Configuration
 
