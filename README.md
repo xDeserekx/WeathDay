@@ -1,6 +1,6 @@
-# Weather Day - A simple weather application
+# Weath Day - A simple weather application
 
-Weather Day is a simple weather application that displays the current weather and 10-day forecast for a given location. The application uses the OpenWeatherMap API to fetch weather data.
+Weath Day is a simple weather application that displays the current weather and 10-day forecast for a given location. The application uses the OpenWeatherMap API to fetch weather data.
 
 ## Prerequisites
 
